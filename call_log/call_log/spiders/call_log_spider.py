@@ -12,7 +12,7 @@ def build_urls():
 	#Build URLs for the last two weeks
 	for i in range(1, 14):
 		today = date.today() - timedelta(days=i)
-		str_date = today.strftime("%B-%d-%Y")
+		str_date = today.strftime("%B-%-d-%Y")
 		url = base + str_date
 		urls.append(url)
 	return urls
