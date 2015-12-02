@@ -2,7 +2,7 @@ Introduction
 ------------
 After a recent burglary in my neighborhood, I became interested in learning more about crime in Boulder, CO.  I learned that [SpotCrime](http://www.spotcrime.com) was getting its data for the area formatted like "https://bouldercolorado.gov/pages/call-log-april-30-2015" so I used scrapy to scrape the crime data from the past two weeks.  The contents of this directory are my scrapy files.
 
-If you are interested, here are more [call logs for Boulder](https://bouldercolorado.gov/tags/policecalllogs).
+If you are interested, here are more [police call logs for Boulder](https://bouldercolorado.gov/tags/policecalllogs).
 
 How To
 ------
